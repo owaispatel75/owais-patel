@@ -166,14 +166,14 @@ header .navbar ul li a:hover{
 }
 .home h1{
     font-size: 5rem;
-    color: #004142;
+    color: #FAF1CA;
 }
 .home h1 span{
-    color:#055b5c
+    color:#055b5c;;
 }
 .home p{
     font-size: 1.5rem;
-    color: #055b5c;
+    color: #FFF7D6;
     padding: 1rem 0;
 }
 
