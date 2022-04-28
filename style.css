@@ -32,7 +32,8 @@ html::-webkit-scrollbar-thumb{
 .background{
     overflow:hidden;
     margin: 0%;
-    background-image: radial-gradient(circle, #bffcfc, #93d1d1, #68a8a8, #3d8181, #055b5c);
+/*     background-image: radial-gradient(circle, #bffcfc, #93d1d1, #68a8a8, #3d8181, #055b5c); */
+    background-image: linear-gradient(to right, #055b5c, #00736d, #008b7b, #00a486, #00bd8c);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
