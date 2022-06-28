@@ -234,7 +234,7 @@ header .navbar ul li a:hover{
 }
 .about .row .counter .box h3{
     font-size: 2rem;
-    color: #004142;
+    color: #FFF7D6;
 }
 /* ONCE AGAIN OVER */
 .education .box-container{
@@ -313,7 +313,7 @@ header .navbar ul li a:hover{
     border-radius: 20px;
     width: 30rem;
     background: #000000;
-    opacity: 0.3;
+    opacity: 0.5;
     text-align: center;
     padding: 1.5rem;
     margin: 1.5rem;
@@ -326,8 +326,11 @@ header .navbar ul li a:hover{
 }
 .portfolio .counter .box span a{
     font-size: 1.5rem;
-    color: #ffffff;
+    color: #ffe087;
     align-items: center;
+}
+.portfolio .counter .box span .activelinks{
+    color: #FFF7D6;
 }
 
 .portfolio .counter .box h3 {
