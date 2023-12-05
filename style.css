@@ -299,13 +299,14 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .counter .skills {
-    text-align: left;
+    text-align: center;
     display: flexbox;
     margin: 0rem 19rem;
     font-size: 5rem;
     padding: 1rem;
     border-bottom: 0.1rem solid #FFF7D6;
     color: #fff;
+    width:100%;
 }
 
 .portfolio .counter .box {
